@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+"Expose all ports"
+ss -tnlp
